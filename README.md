@@ -1,4 +1,4 @@
-- 👋 Hi, I’m @Emmey
+- 👋 Hi, I’m @Ivan
 - 👀 I’m interested in web-sites
 - 🌱 I’m currently learning something
 - 💞️ I’m looking to collaborate
